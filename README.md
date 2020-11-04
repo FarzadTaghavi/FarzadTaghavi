@@ -2,8 +2,6 @@
 
 My name is [Farzad Taghavi](farzadtaghavi.com). I'm a full stack developer currently living in Amsterdam!
 
-<br />
-
 ## I'm a Partner, Father & Full Stack Developer
 
 - 👨🏽‍💻 I’m currently working on a full stack application called, The APP. A delivery app that lets you order anything!
@@ -11,8 +9,6 @@ My name is [Farzad Taghavi](farzadtaghavi.com). I'm a full stack developer curre
 - 💬 Feel free to message me for a chat.
 - 📫 You can reach me at: [fmtaghavi@gmail.com]() or <a href="https://www.linkedin.com/in/FarzadTaghavi/">LinkedIn</a>
 - 📝 You can check out my portfolio at: [FarzadTaghavi.com](farzadtaghavi.com)
-
-<br />
 
 **Languages and Tools:**
 
@@ -23,11 +19,7 @@ My name is [Farzad Taghavi](farzadtaghavi.com). I'm a full stack developer curre
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br />
-
 ## My GitHub Stats
-
-<br />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarzadTaghavi&show_icons=true&include_all_commits=true&theme=radical" alt="Farzad's github stats" />
 </a>
