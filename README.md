@@ -24,28 +24,16 @@ My name is [Farzad Taghavi](farzadtaghavi.com). I'm a full stack developer curre
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarzadTaghavi&show_icons=true&include_all_commits=true&theme=radical" alt="Farzad's github stats" />
 </a>
 
-<br />
-<br />
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzadTaghavi&layout=compact&theme=radical" />
 </a>
 
-<br />
-<br />
-
 ## The APP Project
-
-<br />
 
 <a href="https://github.com/FarzadTaghavi/THE-APP-CLIENT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FarzadTaghavi&repo=THE-APP-CLIENT&theme=radical" />
 </a>
 
-<br />
-<br />
-
 <a href="https://github.com/FarzadTaghavi/THE-APP-SERVER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FarzadTaghavi&repo=THE-APP-SERVER&theme=radical" />
 </a>
-<br />
-<br />
+
