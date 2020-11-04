@@ -4,7 +4,7 @@ My name is [Farzad Taghavi](farzadtaghavi.com). I'm a full stack developer curre
 
 <br />
 
-## I'm a partner, Father & Full Stack Developer
+## I'm a Partner, Father & Full Stack Developer
 
 - 👨🏽‍💻 I’m currently working on a full stack application called, The APP. A delivery app that lets you order anything!
 - 🌱 I’m currently learning TypeScript, GraphQL and React Native.
