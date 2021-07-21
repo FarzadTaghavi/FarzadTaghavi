@@ -1,6 +1,6 @@
 ## Hi there, I'm Farzad 👋
 
-My name is [Farzad Taghavi](farzadtaghavi.com). I'm a full stack developer currently living in Amsterdam!
+My name is [Farzad Taghavi](farzadtaghavi.com). I'm a full stack developer currently living in Zoetermeer, South-Holland!
 
 ## I'm a Partner, Father & Full Stack Developer
 
