@@ -4,8 +4,6 @@ My name is [Farzad Taghavi](farzadtaghavi.com). I'm a junior full stack develope
 
 ## I'm a Partner, Father & Full Stack Developer
 
-- 👨🏽‍💻 I’m currently working on a full stack application called, The APP. A delivery app that lets you order anything!
-- 🌱 I’m currently learning TypeScript, GraphQL and React Native.
 - 💬 Feel free to message me for a chat.
 - 📫 You can reach me at: [fmtaghavi@gmail.com]() or <a href="https://www.linkedin.com/in/FarzadTaghavi/">LinkedIn</a>
 - 📝 You can check out my portfolio at: [FarzadTaghavi.com](farzadtaghavi.com)
