@@ -19,8 +19,7 @@ My name is [Farzad Taghavi](farzadtaghavi.com). I'm a junior full stack develope
 
 ## My GitHub Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarzadTaghavi&show_icons=true&include_all_commits=true&theme=radical" alt="Farzad's github stats" />
-</a>
+  
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzadTaghavi&layout=compact&theme=radical" />
 </a>
