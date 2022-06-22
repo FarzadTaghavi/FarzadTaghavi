@@ -2,8 +2,6 @@
 
 My name is [Farzad Taghavi](farzadtaghavi.com). I'm a junior full stack developer currently living in Zoetermeer, South-Holland!
 
-## I'm a Partner, Father & Full Stack Developer
-
 - 💬 Feel free to message me for a chat.
 - 📫 You can reach me at: [fmtaghavi@gmail.com]() or <a href="https://www.linkedin.com/in/FarzadTaghavi/">LinkedIn</a>
 - 📝 You can check out my portfolio at: [FarzadTaghavi.com](farzadtaghavi.com)
