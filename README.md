@@ -15,21 +15,3 @@ My name is [Farzad Taghavi](farzadtaghavi.com). I'm a full stack developer livin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## My GitHub Stats
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarzadTaghavi&show_icons=true&include_all_commits=true&theme=radical" alt="Farzad's github stats" />
-</a>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzadTaghavi&layout=compact&theme=radical" />
-</a>
-
-## The APP Project
-
-<a href="https://github.com/FarzadTaghavi/THE-APP-CLIENT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FarzadTaghavi&repo=THE-APP-CLIENT&theme=radical" />
-</a>
-
-<a href="https://github.com/FarzadTaghavi/THE-APP-SERVER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FarzadTaghavi&repo=THE-APP-SERVER&theme=radical" />
-</a>
-
